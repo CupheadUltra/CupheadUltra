@@ -4,7 +4,7 @@
 
 ### :man_technologist: Про мене:
 
-Я початковий веб-розробник<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мій шлях в IT почався ще зі 5 класу моєї школи. Тоді вчили основи HTML і саме тоді я зацікавився цією сферою. Потім у 6 класі я пройшов марафон від GOIT "HTML і CSS". Саме тоді мох очі ще більше запалали і в березні 2023 року розпочав навчання у школі GOITTENS.
+Я початковий веб-розробник<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мій шлях в IT почався ще з 5 класу моєї школи. Тоді вчили основи HTML і саме тоді я зацікавився цією сферою. Потім у 6 класі я пройшов марафон від GOIT "HTML і CSS". Саме тоді мої очі ще більше запалали і в березні 2023 року розпочав навчання у школі GOITTENS.
 
 - :telescope: Проходив марафон 18+ від GOIT.
 
@@ -12,7 +12,7 @@
 
 - :zap: Займаюся саморозвитком і самопрактикою.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-sviat_2010-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sviat_2010) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:svatoslavkalugin@gmail.com)
+- :mailbox: Як зв'язатися зі мною: [![Telegram Badge](https://img.shields.io/badge/-sviat_2010-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sviat_2010) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:svatoslavkalugin@gmail.com)
 
 ---
 
@@ -29,7 +29,7 @@
   
   ---
 
-### 💻 Технологии:
+### 💻 Технології:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
@@ -47,12 +47,11 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Інструменти:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
