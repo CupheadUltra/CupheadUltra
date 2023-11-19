@@ -6,10 +6,6 @@
 
 Я початковий веб-розробник<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мій шлях в IT почався ще зі 5 класу моєї школи. Тоді вчили основи HTML і саме тоді я зацікавився цією сферою. Потім у 6 класі я пройшов марафон від GOIT "HTML і CSS". Саме тоді мох очі ще більше запалали і в березні 2023 року розпочав навчання у школі GOITTENS.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 - :telescope: Проходив марафон 18+ від GOIT.
 
 - :seedling: Навчаюся у школі GOITTENS 8 місяців.
